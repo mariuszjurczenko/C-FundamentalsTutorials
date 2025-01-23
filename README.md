@@ -1,9 +1,7 @@
 ﻿# PierwszyProgram
-## 👉 Zacznij programować w C# – Twój Pierwszy Program Krok po Kroku!
+# 👉 Zacznij programować w C# – Twój Pierwszy Program Krok po Kroku!
 [Zacznij programować w C# – Twój Pierwszy Program Krok po Kroku!](https://www.youtube.com/watch?v=D-5tXNylF3g "Zacznij programować w C# – Twój Pierwszy Program Krok po Kroku!")
 	
-	
-
 	Czy jesteś gotowy, aby zanurzyć się w ekscytującym świecie programowania w C#? 
 	🚀 W tym kompleksowym samouczku przeprowadzimy Cię przez proces tworzenia Twojego pierwszego programu przy użyciu C#. 
 	Niezależnie od tego, czy jesteś zupełnym nowicjuszem, czy osobą, która chce odświeżyć swoje umiejętności, 
@@ -23,10 +21,8 @@
 	Zasoby praktyczne: Uzyskaj dostęp do linków do dalszych samouczków i ćwiczeń dostępnych na naszej stronie.
 
 # Czysty Kod w C# – Tworzenie Prostej Aplikacji do Zarządzania Użytkownikami! 
-
 [Czysty Kod w C# – Tworzenie Prostej Aplikacji do Zarządzania Użytkownikami!](https://www.youtube.com/watch?v=ybFjih4mqVo "Czysty Kod w C# – Tworzenie Prostej Aplikacji do Zarządzania Użytkownikami!")
 	
-
 ## Poznaj zasady czystego kodu w praktyce na przykładzie aplikacji do zarządzania użytkownikami w C#! 
 	🚀 Dowiedz się, jak pisać kod, który jest nie tylko funkcjonalny, ale i zrozumiały, łatwy do utrzymania oraz gotowy na przyszłe zmiany.
 

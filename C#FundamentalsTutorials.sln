@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManager", "UserManager\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManager.Tests", "UserManager.Tests\UserManager.Tests.csproj", "{4535E49F-B8A5-4DF3-B629-362B42F49D8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyContacts", "EasyContacts\EasyContacts.csproj", "{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{4535E49F-B8A5-4DF3-B629-362B42F49D8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4535E49F-B8A5-4DF3-B629-362B42F49D8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4535E49F-B8A5-4DF3-B629-362B42F49D8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
