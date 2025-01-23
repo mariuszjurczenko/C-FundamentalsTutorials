@@ -16,6 +16,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserManager.Tests", "UserMa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyContacts", "EasyContacts\EasyContacts.csproj", "{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager", "ContactManager\ContactManager.csproj", "{F01722E2-2CAD-4D51-AD1C-1B4861993671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactManager.Tests", "ContactManager.Tests\ContactManager.Tests.csproj", "{EA27D53A-0A2D-425B-B15C-290E9D569572}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +42,14 @@ Global
 		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC42CE4E-D89D-4028-A28E-5BD57D4D1CB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F01722E2-2CAD-4D51-AD1C-1B4861993671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F01722E2-2CAD-4D51-AD1C-1B4861993671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F01722E2-2CAD-4D51-AD1C-1B4861993671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F01722E2-2CAD-4D51-AD1C-1B4861993671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA27D53A-0A2D-425B-B15C-290E9D569572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA27D53A-0A2D-425B-B15C-290E9D569572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA27D53A-0A2D-425B-B15C-290E9D569572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA27D53A-0A2D-425B-B15C-290E9D569572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

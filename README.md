@@ -46,3 +46,15 @@
 	✅ Uruchomić migracje EF Core i stworzyć bazę danych
 	✅ Przetestować aplikację w praktyce	
 
+# Twoja pierwsza aplikacja w C#! Zarządzanie kontaktami od podstaw
+[Twoja pierwsza aplikacja w C#! Zarządzanie kontaktami od podstaw](https://www.youtube.com/watch?v=wfu9ctcMLgg "Twoja pierwsza aplikacja w C#! Zarządzanie kontaktami od podstaw")
+
+## W tym filmie pokażę Ci, jak stworzyć prostą aplikację w języku C#, która pozwala zarządzać listą kontaktów. 
+	To doskonały projekt dla początkujących i średniozaawansowanych programistów! 👨‍💻👩‍💻
+
+## 👉 Czego się nauczysz?
+
+	✅ Dodawania, przeglądania i wyszukiwania kontaktów,
+	✅ Organizacji kodu zgodnie z zasadami SOLID,
+	✅ Zapisywania i odczytywania danych z plików,
+	✅ I wielu innych przydatnych rzeczy!
