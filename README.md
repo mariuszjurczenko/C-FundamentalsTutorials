@@ -33,3 +33,16 @@
 
 	W filmie pokażę, jak zastosować te zasady w C#, a także jak napisać testy jednostkowe w xUnit! Idealny materiał dla programistów, 
 	którzy chcą rozwijać swoje umiejętności i tworzyć lepszy kod.
+
+# Tworzenie Interfejsu API w 5 Krokach za pomocą Visual Studio Scaffolding 🚀
+[Tworzenie Interfejsu API w 5 Krokach za pomocą Visual Studio Scaffolding](https://www.youtube.com/watch?v=6Z2fPlAfVVk "Tworzenie Interfejsu API w 5 Krokach za pomocą Visual Studio Scaffolding")
+
+## Poznaj, jak w zaledwie kilka kroków stworzyć kompletny interfejs API przy użyciu funkcji rusztowania (Scaffolding) w Visual Studio! 
+	🎯 Dzięki temu proces tworzenia API stanie się szybki, prosty i wolny od błędów. W tym filmie krok po kroku pokażemy, jak:
+
+	✅ Utworzyć aplikację ASP.NET Core Web API
+	✅ Skonfigurować klasę DbContext i encje
+	✅ Automatycznie wygenerować punkty końcowe CRUD
+	✅ Uruchomić migracje EF Core i stworzyć bazę danych
+	✅ Przetestować aplikację w praktyce	
+
